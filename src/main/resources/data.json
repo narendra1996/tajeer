@@ -1,0 +1,94 @@
+{
+  "renter": {
+    "personAddress": "Riyadh",
+    "email": "",
+    "mobile": "966581823199",
+    "idTypeCode": "1",
+    "idNumber": "1028558326",
+    "hijriBirthDate": "14430109"
+  },
+  "paymentDetails": {
+    "extraKmCost": 2,
+    "rentDayCost": 120,
+    "rentHourCost": 10,
+    "fullFuelCost": 0,
+    "driverFarePerDay": 0,
+    "driverFarePerHour": 0,
+    "vehicleTransferCost": 0,
+    "internationalAuthorizationCost": 230,
+    "discount": 10,
+    "paid": 100,
+    "extraDriverCost": 140,
+    "paymentMethodCode": 1,
+    "additionalCoverageCost": 10
+  },
+  "vehicleDetails": {
+    "plateNumber": "1234",
+    "firstChar": "ع",
+    "secondChar": "ل",
+    "thirdChar": "م"
+  },
+  "rentStatus": {
+    "ac": 1,
+    "carSeats": 6,
+    "fireExtinguisher": 8,
+    "firstAidKit": 8,
+    "keys": 5,
+    "radioStereo": 1,
+    "safetyTriangle": 8,
+    "screen": 1,
+    "spareTire": 1,
+    "spareTireTools": 8,
+    "speedometer": 5,
+    "tires": 1,
+    "sketchInfo": "[{\"type\":\"small-scratch\",\"x\":769.8333129882812,\"y\":119.61669921875},{\"type\":\"small- scratch\",\"x\":702.8333129882812,\"y\":109.61669921875},{\"type\":\"very-deep-scratch\",\"x\":741.8333129882812,\"y\":308.4753579947155},{\"type\":\"bend-in-body\",\"x\":151.83331298828125,\"y\":312.62390469286186}]",
+    "notes": "Notes",
+    "availableFuel": 1,
+    "odometerReading": 2222,
+    "other1": "other1",
+    "other2": "other2",
+    "oilChangeKmDistance": 3333,
+    "enduranceAmount": 0,
+    "fuelTypeCode": 2,
+    "oilChangeDate": "2022-12-11T00:00",
+    "oilType": "Lexus Oil"
+  },
+  "extraDriver": {
+    "idTypeCode": "2",
+    "personAddress": "Makka",
+    "idNumber": "2455732350",
+    "birthDate": "1981-11-01T00:00"
+  },
+  "extendedCoverageId": "20008",
+  "workingBranchId": 1,
+  "rentPolicyId": 28,
+  "contractStartDate": "2021-11-26T13:37",
+  "contractEndDate": "2021-11-28T13:37",
+  "authorizationDetails": {
+    "authorizationTypeCode": "2",
+    "tammExternalAuthorizationCountries": [
+      {
+        "code": 1
+      },
+      {
+        "code": 2
+      },
+      {
+        "code": 5
+      }
+    ]
+  },
+  "addtionalServices": {
+    "carSeatPerDay": "10",
+    "disabilitiesAidsPerDay": "20",
+    "carDelivery": "200",
+    "navigationSystemPerDay": "40",
+    "internetPerDay": "50"
+  },
+  "allowedKmPerHour": 10,
+  "receiveBranchId": 2,
+  "returnBranchId": 2,
+  "allowedKmPerDay": 100,
+  "contractTypeCode": "1",
+  "allowedLateHours": 12
+}
