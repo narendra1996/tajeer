@@ -1,7 +1,9 @@
 package com.cse.apis.tajeerapis.dto;
 
 import com.cse.apis.tajeerapis.pojo.*;
+import lombok.Data;
 
+@Data
 public class SaveContractRequest {
 
     private Renter renter;
